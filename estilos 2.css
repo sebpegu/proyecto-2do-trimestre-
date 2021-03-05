@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+
+td{
+	color: white;
+	font-family: helvetica;
+}
+
+th{
+	height: 750;
+	color: white; 
+}	
